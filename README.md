@@ -4,13 +4,13 @@
 # XCode
 Learned the basics of XCode for apps and games. Developed my skills in different areas by testing several forms of apps. Proficient in most aspects of SwiftUI, and managed to inplement Firebase backend into several of my apps for login/sign up purposes. 
 
-[Incoming! App](https://github.com/colenelson33/Incoming)
+[Incoming! App](https://github.com/colenelson33/Incoming)/n
 One app I developed is a asteroid-like game where the user shoots different weapons to destroy incoming objects. I learned how to use the physics objects that Apple provides, and how to set up levels using different functions. I implemented randomized, special power-ups that allow users to shoot to lasers at once, dealing twice the damage. 
 
 ![Screen Shot 2022-04-05 at 2 37 54 PM](https://user-images.githubusercontent.com/98774834/161836113-fc32d714-f6b8-4b9c-97a6-d6839934a8e1.png)
 ![Screen Shot 2022-04-05 at 2 38 43 PM](https://user-images.githubusercontent.com/98774834/161836150-b6a2eb67-5343-416e-8c76-a7524d73e32c.png)
 
-[ClassRank App](https://github.com/colenelson33/EPHSRatr)
+[ClassRank App](https://github.com/colenelson33/EPHSRatr)/n
 The next major app I developed is ClassRank (name is still up in the air). It utilizes XCode's SwiftUI to create an easy to maneuver and pleasing to the eye experience. This app takes in data from my high school's website, and turns it into a functional, informative app. Users are able to compare courses, look at difficulty, and check average grades and homework per night. Most importantly, the app is interactive. Users who log in, are able to input their own data from classes they have taken before, to make the data shown to everyone who has the app downloaded more precise. As more users begin to add their data, the more accurate the app becomes. ClassRank is also riddled with details. There is a light/dark mode you can toggle, animating buttons, and little details about each class to make you laugh.
 
 ![Screen Shot 2022-04-05 at 2 06 39 PM](https://user-images.githubusercontent.com/98774834/161837613-cdd9e5e8-33cc-408a-baeb-698b606597b3.png)
